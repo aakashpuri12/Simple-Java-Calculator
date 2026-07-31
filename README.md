@@ -81,11 +81,17 @@ How to Run
 git clone https://github.com/aakashpuri12/Simple-Java-Calculator.git
 ```
 2. Open the project directory
-   ```cd Simple-Java-Calculator```
-3. Compile the Java program
-   ```javac src/SimpleCalculator.java```
-4. Run the program
-   ```java -cp src SimpleCalculator```
+   ```
+   cd Simple-Java-Calculator
+   ```
+4. Compile the Java program
+   ```
+   javac src/SimpleCalculator.java
+   ```
+6. Run the program
+   ```
+   java -cp src SimpleCalculator
+   ```
 
 Concepts Demonstrated
 
