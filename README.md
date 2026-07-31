@@ -62,6 +62,21 @@ Enter second number: 10
 
 Result: 30.0
 
-
+```
 
 Project Structure
+```
+SimpleCalculator/
+├── src/
+│   └── SimpleCalculator.java
+├── .classpath
+├── .project
+├── .gitignore
+└── README.md
+```
+
+How to Run
+1. Clone the repository
+```
+git clone https://github.com/aakashpuri12/Simple-Java-Calculator.git
+```
