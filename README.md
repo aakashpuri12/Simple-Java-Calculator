@@ -80,3 +80,41 @@ How to Run
 ```
 git clone https://github.com/aakashpuri12/Simple-Java-Calculator.git
 ```
+2. Open the project directory
+   ```cd Simple-Java-Calculator```
+3. Compile the Java program
+   ```javac src/SimpleCalculator.java```
+4. Run the program
+   ```java -cp src SimpleCalculator```
+
+Concepts Demonstrated
+
+This project demonstrates fundamental Java programming concepts including:
+```
+Classes and Objects
+Methods
+Static Methods and Variables
+Scanner for user input
+Switch statements
+While loops
+Exception Handling
+ArithmeticException
+InputMismatchException
+Math API
+Future Improvements
+Add square root calculation
+Add calculation history
+Add percentage calculation
+Add scientific calculator operations
+Improve input validation
+Create a GUI version using Java Swing or JavaFX
+```
+
+Author
+
+Aakash Puri
+
+GitHub: aakashpuri12
+
+```text
+C:\Users\asusm\eclipse-workspace\SimpleCalculator>```
