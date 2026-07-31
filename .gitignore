@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+
+# Eclipse generated files
+bin/
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
