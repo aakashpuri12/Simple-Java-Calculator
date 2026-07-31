@@ -114,7 +114,8 @@ Author
 
 Aakash Puri
 
-GitHub: aakashpuri12
+GitHub: [aakashpuri12](https://github.com/aakashpuri12/)
 
 ```text
-C:\Users\asusm\eclipse-workspace\SimpleCalculator>```
+C:\Users\asusm\eclipse-workspace\SimpleCalculator>
+```
